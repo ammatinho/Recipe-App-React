@@ -1,0 +1,45 @@
+.App {
+  min-height: 100vh;
+  /* background-image: linear-gradient(60deg, #29323c 0%, #485563 100%); */
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+.seacrh-form {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.seacrh-bar {
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+
+.seacrh-button {
+  background: #29323c;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+}
+
+.recipes {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.title {
+  text-align: center;
+  color: dimgrey;
+  font-weight: bold;
+}
+
+.sub-title {
+  text-align: center;
+  color: dimgrey;
+  font-weight: bold;
+}
+
+
