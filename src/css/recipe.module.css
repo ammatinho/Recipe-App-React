@@ -21,9 +21,21 @@
     text-align: center;
     font-size: medium;
     color: dimgrey;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Molle', cursive;
+    font-family: 'Amatic SC', cursive;
 }
 
 p {
     font-weight: bold;
     color:dimgrey;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Molle', cursive;
+    font-family: 'Amatic SC', cursive;
+}
+
+ol li {
+    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Molle', cursive;
+    font-family: 'Amatic SC', cursive;
 }

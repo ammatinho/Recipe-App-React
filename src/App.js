@@ -42,9 +42,12 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="title">RECIPE APP</h1>
+      <h1 className="title">Recipe APP</h1>
+      <div className="image">
+        <img src={ require('../src/css/recipewallpaper.jpg') } />
+      </div>
       <h3 className="sub-title">Type here and find the most tasty recipes</h3>
-      <form onSubmit={getQuery} className="search=form">
+      <form onSubmit={getQuery} className="search-form">
         <input className="search-bar" type="text" value={query} onChange={updateQuery}/>
         <button className="search-button" type="submit">Search</button>
       </form>
