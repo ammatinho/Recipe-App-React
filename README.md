@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# { Recipe-App-React }
 
 Created a simple frontend React application that allows the user to find tasty recipes searching by one or more ingredients
 
